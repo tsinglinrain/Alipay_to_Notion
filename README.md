@@ -2,7 +2,7 @@
 Transfer Alipay bills to Notion, does not use Alipay official API<br>
 将支付宝账单转入Notion，注意没有使用支付宝官方API<br>
 
-[中文](https://github.com/tsinglinrain/Alipay_to_Notion/blob/main/README_zh.md)
+[中文](https://github.com/tsinglinrain/Alipay_to_Notion/blob/main/README_zh.md) | [English](https://github.com/tsinglinrain/Alipay_to_Notion/blob/main/README.md)
 
 This is another attempt at using the Notion API, which is still a **learning project**. There may still be some issues with the code. 
 
