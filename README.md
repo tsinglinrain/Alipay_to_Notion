@@ -63,11 +63,11 @@ https://www.notion.so/tsinglin/68151a1caaca488a884cafcd5086810c?v=3d0c405e7cae40
 
 Copy the content between `tsinglin/` and `?`, which is the `database id`.
 
-## 3. Exporting WeChat Pay bill
+## 3. Exporting Alipay bill
 
-To export your WeChat Pay bill, open WeChat and go to "Me", then click on "Wallet", followed by "Transactions". Click on "Download transactions" in the top right corner, select the desired time period, and enter your payment password and email address. Make sure that the email address is correct to prevent privacy leaks.
+To export your Alipay bill...
 
-You will receive an email with a compressed file and a password to extract it. The file inside should be in CSV format.
+You will receive an email with a compressed file and a password which is your ID to extract it. The file inside should be in CSV format.
 
 ## 4. Setting up the Python code
 
@@ -87,13 +87,13 @@ token: "secret_Wa***********" # token, 记得自己填写
 
 ### 3.3 Renovation
 
-Copy the CSV file of Alipay bills into this folder and rename this CSV file to `WeChat_raw.csv`.
+Copy the CSV file of Alipay bills into this folder and rename this CSV file to `Alipay_raw.csv`.
 
 explain the reason:
 
 1. The position of the code in the code is the relative path. The Alipay bill file must be under the same folder as the above file.
 
-2. The specified file name in the code is `wechat_raw.csv`, which must be renamed Alipay bill files
+2. The specified file name in the code is `Alipay_raw.csv`, which must be renamed Alipay bill files
 
 ### 3.4 Running program
 
