@@ -14,7 +14,7 @@ def post_notion(properties, database_id, token):
     url = "https://api.notion.com/v1/pages"
     payload = {
         "parent": {"database_id": database_id},
-        "properties": properties,
+        "properties": properties
         #"children": ["string"],    # 不需要children
         #"icon": "string",
         #"cover": "string"

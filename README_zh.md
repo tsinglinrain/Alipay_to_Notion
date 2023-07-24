@@ -4,7 +4,7 @@ Transfer Alipay bills to Notion, does not use Alipay official API<br>
 
 [English](https://github.com/tsinglinrain/Alipay_to_Notion/blob/main/README.md) | [中文](https://github.com/tsinglinrain/Alipay_to_Notion/blob/main/README_zh.md)
 
-这是个人对于Notion API另一个尝试，目前仍然作为**练手项目**，代码可能仍存在不少问题。<br>同时，关于微信账单导入，我也写了另外一个项目[tsinglinrain/WechatPay_to_Notion](https://github.com/tsinglinrain/WechatPay_to_Notion)，两者之间代码几乎一样。但是分开有利于账单处理。<br>我自己就在使用，导入到Notion后利用相关模板管理支出。
+这是个人对于Notion API另一个尝试，目前仍然作为**练手项目**，代码可能仍存在不少问题。<br>同时，关于**微信账单**导入，我也写了另外一个项目[tsinglinrain/WechatPay_to_Notion](https://github.com/tsinglinrain/WechatPay_to_Notion)，两者之间代码几乎一样。但是分开有利于账单处理。<br>我自己就在使用，导入到Notion后利用相关模板管理支出。
 
 # 其他说明
 
