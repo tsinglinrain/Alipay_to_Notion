@@ -1,4 +1,11 @@
 # Alipay_to_Notion
+
+# Please note
+
+支付宝和微信的账单导入已经完成合并，并且用类的方式重新写了一遍，所以放在[WeChatPay_to_Notion](https://github.com/tsinglinrain/WechatPay_to_Notion/tree/main)项目中，这个项目保存旧版的代码写法。
+
+The bill import of Alipay and WeChat has been merged and rewritten in the form of classes, so it is placed in the [WeChatPay_to_Notion](https://github.com/tsinglinrain/WechatPay_to_Notion/tree/main) project. This project saves the old version of the code.
+
 Transfer Alipay bills to Notion, does not use Alipay official API<br>
 将支付宝账单转入Notion，注意没有使用支付宝官方API<br>
 
